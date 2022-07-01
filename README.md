@@ -8,7 +8,7 @@ Implementing Go fundamentals to build a websever(Baisc)
   - Slices(index)     
   - Maps (key, value)     
   - structs   
-  - Creating Fuctions and Methods     
+ - Creating Fuctions and Methods     
     -  Fuctions         
     - Arguments and Parameters         
     - Returning results     
