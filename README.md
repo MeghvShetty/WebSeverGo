@@ -1,5 +1,5 @@
 # WebSeverGo
-Implementing Go fundamentals to build a websever(Baisc)
+## Implementing Go fundamentals to build a websever(Baisc)
 - Declarationn and Primitives (declare variable) 
 - Pointer (addressof) 
 - Constants (iota, constant expressions) 
